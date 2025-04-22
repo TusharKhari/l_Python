@@ -8,7 +8,7 @@ print(name[1:4])
 
 print(name[:4]) # same as [0:4]
 print(name[1:]) # same as [1:5]
-print(name[1:5])
+print("kucj",name[1:2])
 
 a="abcdefghijklmnopqrstuvwxyz"
 print(a[1:9]) # bcdefghi
